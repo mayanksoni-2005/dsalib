@@ -1,7 +1,7 @@
-# 📚 MayDSA – A Modern C++ DSA Library
+# 📚 LibDSA – A Modern C++ DSA Library
 
-**MayDSA** is a lightweight, modular, and beginner-friendly C++17 library containing implementations of commonly used **Data Structures** and **Algorithms**. It’s built for quick prototyping, learning, and competitive programming.
-
+**LibDSA** is a lightweight, modular, and beginner-friendly C++17 library containing implementations of commonly used **Data Structures** and **Algorithms**. It’s built for quick prototyping, learning, and competitive programming.
+  
 ---
 
 ## 🚀 Features
